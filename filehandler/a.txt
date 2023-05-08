@@ -1,0 +1,3 @@
+file_handler=open(r"/filehandling/a.txt","r")
+for line in file_handler:
+    print(line)
